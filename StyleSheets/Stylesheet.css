@@ -1,0 +1,29 @@
+a.major-link {
+    font-family: "Montserrat",sans-serif;
+    display: block;
+    color: #2b406e;
+    background: #a8e7f6;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1;
+    margin-top: 0.4rem;
+    -webkit-margin-top: 0.4rem;
+    -moz-margin-top: 0.4rem;
+    padding-top: 0.4rem;
+    -webkit-padding-top: 0.4rem;
+    -moz-padding-top: 0.4rem;
+    padding-right: 0.4rem;
+    -webkit-padding-right: 0.4rem;
+    -moz-padding-right: 0.4rem;
+    padding-bottom: 0.4rem;
+    -webkit-padding-bottom: 0.4rem;
+    -moz-padding-bottom: 0.4rem;
+    padding-left: 0.4rem;
+    -webkit-padding-left: 0.4rem;
+    -moz-padding-left: 0.4rem;
+    text-align: left;
+    text-decoration: underline;
+}
+a.major-link:hover {
+    background: yellow;
+}
